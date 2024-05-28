@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.10">
+	<ConfigVersions>
+		<Metadata name="Catalog.Достижения" id="8a5837c5-8edc-48bc-b899-5f1ee2e8cc2f" configVersion="c9f7ba490827514fb9f3e0faf706ff0b00000000">
+			<Metadata name="Catalog.Достижения.Attribute.Пользователь" id="5a8918b5-40dd-4891-834f-463d85bac4fe"/>
+			<Metadata name="Catalog.Достижения.Attribute.КоличествоМанулов" id="cde94e29-2edb-417e-ba20-28c77c4ebaa5"/>
+		</Metadata>
+		<Metadata name="Configuration.Конфигурация" id="718941b8-31ed-4e6a-91fe-ff21ba376636" configVersion="e024dcae3ed6804cb767ff18c857428800000000"/>
+		<Metadata name="HTTPService.Exchange" id="8a31d558-dbef-4edb-982a-49da7d9bffe2" configVersion="a7a396af96262940a75332c3bf149bf200000000">
+			<Metadata name="HTTPService.Exchange.URLTemplate.SendAchievements" id="98a1028b-c63a-4c90-84ca-c33302c5aeab"/>
+			<Metadata name="HTTPService.Exchange.URLTemplate.SendAchievements.Method.SendAchievements" id="a6c92c3c-e113-46c4-bc89-a6d1e5823c71"/>
+		</Metadata>
+		<Metadata name="HTTPService.Exchange.Module" id="8a31d558-dbef-4edb-982a-49da7d9bffe2.0" configVersion="6989e24127b72845ab82620df1196b1600000000"/>
+		<Metadata name="Language.Русский" id="5482d109-2d5f-4702-b616-8e4cf6236599" configVersion="0cdc66f1f39a8643920c9dbe3fa90d0c00000000"/>
+		<Metadata name="Report.ПосчитанныеМанулы" id="b81c4e15-9a66-47d6-b0a4-c0240732604d" configVersion="68727b02ca92d7438abfc458bd3bc32b00000000"/>
+		<Metadata name="Report.ПосчитанныеМанулы.Template.ОсновнаяСхемаКомпоновкиДанных" id="2f11d8ba-9984-4ef0-b18a-46cfe0547c28" configVersion="a33fe1fe8430ba46873324f0c035d45700000000"/>
+		<Metadata name="Report.ПосчитанныеМанулы.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="2f11d8ba-9984-4ef0-b18a-46cfe0547c28.0" configVersion="170f976b13c6f045bdad31fbaaa3803b00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.10">
+	<ConfigVersions>
+		<Metadata name="Catalog.Достижения" id="b73363eb-1ca2-421a-84f5-4ed1cba85135" configVersion="57671e9f0466fa49a1af95853ff5dab800000000">
+			<Metadata name="Catalog.Достижения.Attribute.Пользователь" id="71c92065-3796-4c1e-b22e-219c94bce487"/>
+			<Metadata name="Catalog.Достижения.Attribute.КоличествоМанулов" id="b4f97e30-aa6a-402b-a4fb-55fdd03351d3"/>
+		</Metadata>
+		<Metadata name="CommonForm.ГлавнаяФорма" id="50748f2f-37cf-4e69-b83e-bc1165649da2" configVersion="069094c8d3a9c7499c204faf499f47e700000000"/>
+		<Metadata name="CommonForm.ГлавнаяФорма.Form" id="50748f2f-37cf-4e69-b83e-bc1165649da2.0" configVersion="d0cf7fd2e3d16140bc33bf894f671e0400000000"/>
+		<Metadata name="CommonForm.ФормаПодсчётаМанулов" id="a29f2f56-04ca-4d8d-b31c-9a617995d5f2" configVersion="f77604e2b925e843a0fe57e4aeccd52700000000"/>
+		<Metadata name="CommonForm.ФормаПодсчётаМанулов.Form" id="a29f2f56-04ca-4d8d-b31c-9a617995d5f2.0" configVersion="853173ad68ae5648aed4c26a1b76d3b100000000"/>
+		<Metadata name="CommonPicture.КартинкаСМанулом" id="7a274666-be4a-415a-af2b-5d50f7a11edb" configVersion="d5e7d12f93f6e2479997701a3ab6077500000000"/>
+		<Metadata name="CommonPicture.КартинкаСМанулом.Picture" id="7a274666-be4a-415a-af2b-5d50f7a11edb.0" configVersion="b31e8523e3358149adb9e86d21dccc5a00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="9722632d-e69b-4961-b9b7-42d3d0a436e2" configVersion="4f0a62ef2ca116408518130b7a4a9bf600000000"/>
+		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="f9a8420c-accf-44a8-821c-d68342c5bba8.8" configVersion="e46728e85c372d4fb06905d4dbb9ab6600000000"/>
+		<Metadata name="Configuration.Конфигурация.SessionModule" id="f9a8420c-accf-44a8-821c-d68342c5bba8.7" configVersion="33c28a95466a5e4d95105135c147574700000000"/>
+		<Metadata name="Language.Русский" id="b38d94dd-3b9c-4652-b7e3-4b83e7b1cb40" configVersion="e271e1cd6ccda34297ac2f41fe0dd50900000000"/>
+		<Metadata name="Report.ПодсчитанныеМанулы" id="0ba4719e-13ba-4815-9e94-30ce03755f95" configVersion="5ad601eca9707f4ab5617b6b535bc3c600000000"/>
+		<Metadata name="Report.ПодсчитанныеМанулы.Template.ОсновнаяСхемаКомпоновкиДанных" id="088068de-5e89-4495-8e73-e55668cc0752" configVersion="45319d458d64c14e8084be77e121810c00000000"/>
+		<Metadata name="Report.ПодсчитанныеМанулы.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="088068de-5e89-4495-8e73-e55668cc0752.0" configVersion="8597c133c6c16941908899a9c496996600000000"/>
+		<Metadata name="SessionParameter.ТекущийПользователь" id="cbad75a1-2c0c-42e9-b1f8-0af8f003e9ce" configVersion="960aabbaf2ed1841932363be9c91de5a00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
